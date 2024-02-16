@@ -1,0 +1,20 @@
+{
+  "file_name": "C:\\Users\\admin\\Desktop\\diagrama\\2023_08_09_ІІ_етап_сертиф_базова_матем.xlsx",
+  "first_member_number": 2,
+  "last_member_number": 4,
+
+  "template_page": "Ш",
+  "member_page": "Перевод рез.уч. (200)",
+  "code_cell_template": "N11",
+  "name_cell_template": "S14",
+  "code_column": "D",
+  "name_column": "C",
+  "results_cells_template": ["A9", "B9", "C9", "D9", "E9", "F9", "G9", "H9", "I9",
+    "J9", "K9", "L9", "M9", "N9", "O9"],
+  "results_columns": ["CI", "CJ", "CK", "CL","CM","CN", "CO", "CP", "CQ",
+    "CR", "CS", "CT", "CU", "CV", "CW"],
+
+  "folder_with_pdf": "C:\\Users\\admin\\Desktop\\diagrama\\",
+  "pdf_name_page": "Рез. E-mail",
+  "column_with_file_name": "I"
+}
